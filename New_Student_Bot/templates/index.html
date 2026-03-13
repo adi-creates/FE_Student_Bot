@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>TCET FE FAQ Bot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Sora:wght@500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <main class="workspace">
+        <aside class="guide-panel">
+            <p class="panel-kicker">AI Simulation Style</p>
+            <h1>TCET FE Assistant</h1>
+            <p class="panel-text">Ask questions from <code>TCET_FE_faq.docx</code> and get answers with source
+                traceability.</p>
+
+            <section class="context-card">
+                <h2>Session Snapshot</h2>
+                <ul>
+                    <li><span>Knowledge base</span><strong id="health-status">Loading...</strong></li>
+                    <li><span>FAQ entries</span><strong id="faq-count">-</strong></li>
+                    <li><span>Primary endpoint</span><strong>/api/ask</strong></li>
+                </ul>
+            </section>
+
+            <section class="context-card">
+                <h2>Tips</h2>
+                <ul class="tips-list">
+                    <li>Use complete questions for better confidence.</li>
+                    <li>Click a sample prompt to get started quickly.</li>
+                    <li>Check source and confidence under each answer.</li>
+                </ul>
+            </section>
+        </aside>
+
+        <section class="chat-shell">
+            <header class="topbar">
+                <div>
+                    <p class="topbar-kicker">Knowledge Chat</p>
+                    <h2>Conversation Console</h2>
+                </div>
+                <span class="status-pill" id="status-pill">Checking service...</span>
+            </header>
+
+            <section id="chat" class="chat" aria-live="polite"></section>
+
+            <form id="chat-form" class="composer">
+                <div class="composer-row">
+                    <input id="question" type="text" placeholder="Ask your TCET FE question..." autocomplete="off"
+                        required>
+                    <button type="submit">Ask</button>
+                </div>
+
+                <section class="suggestions" aria-label="Sample questions">
+                    <p class="suggestions-title">Need help? Try one of these:</p>
+                    <div id="suggestions-list" class="suggestions-list"></div>
+                </section>
+            </form>
+        </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+
+</html>

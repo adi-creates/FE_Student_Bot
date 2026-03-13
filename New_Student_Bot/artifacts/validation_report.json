@@ -1,0 +1,77 @@
+{
+  "faq_count": 129,
+  "validation_queries": 645,
+  "top1_accuracy": 1.0,
+  "sample": [
+    {
+      "query": "I need help with: Are mobile phones allowed during lectures",
+      "expected": "Are mobile phones allowed during lectures?",
+      "predicted": "Are mobile phones allowed during lectures?",
+      "confidence": 0.887,
+      "correct": true
+    },
+    {
+      "query": "Can you please tell me Where can I report safety concerns",
+      "expected": "Where can I report safety concerns?",
+      "predicted": "Where can I report safety concerns?",
+      "confidence": 0.9303,
+      "correct": true
+    },
+    {
+      "query": "Can you please tell me What activities are organised by the Green Club",
+      "expected": "What activities are organised by the Green Club?",
+      "predicted": "What activities are organised by the Green Club?",
+      "confidence": 0.9368,
+      "correct": true
+    },
+    {
+      "query": "Can you please tell me How can I apply for official documents",
+      "expected": "How can I apply for official documents?",
+      "predicted": "How can I apply for official documents?",
+      "confidence": 0.9289,
+      "correct": true
+    },
+    {
+      "query": "I need help with: Does TCET have a medical facility",
+      "expected": "Does TCET have a medical facility?",
+      "predicted": "Does TCET have a medical facility?",
+      "confidence": 0.8605,
+      "correct": true
+    },
+    {
+      "query": "what is the difference between ise, ie and end sem?",
+      "expected": "What is the difference between ISE, IE and End Sem?",
+      "predicted": "What is the difference between ISE, IE and End Sem?",
+      "confidence": 1.0,
+      "correct": true
+    },
+    {
+      "query": "Can you please tell me What if I feel nervous during presentations",
+      "expected": "What if I feel nervous during presentations?",
+      "predicted": "What if I feel nervous during presentations?",
+      "confidence": 0.933,
+      "correct": true
+    },
+    {
+      "query": "I need help with: Can students propose sustainability ideas",
+      "expected": "Can students propose sustainability ideas?",
+      "predicted": "Can students propose sustainability ideas?",
+      "confidence": 0.865,
+      "correct": true
+    },
+    {
+      "query": "Can you please tell me What does ISTE stand for in TCET",
+      "expected": "What does ISTE stand for in TCET?",
+      "predicted": "What does ISTE stand for in TCET?",
+      "confidence": 0.9224,
+      "correct": true
+    },
+    {
+      "query": "Should first-year students join college bodies?",
+      "expected": "Should first-year students join college bodies?",
+      "predicted": "Should first-year students join college bodies?",
+      "confidence": 1.0,
+      "correct": true
+    }
+  ]
+}

@@ -1,0 +1,518 @@
+[
+  {
+    "question": "Why TCET?",
+    "answer": "TCET provides a balanced environment of academics, technical exposure and overall personality development. It focuses not only on curriculum but also on innovation, research, sustainability and student growth."
+  },
+  {
+    "question": "What makes TCET different from other colleges?",
+    "answer": "TCET emphasizes: Outcome-Based Education (OBE) Active student bodies and professional chapters Strong focus on technical events and conferences Environmental and social responsibility initiatives Continuous assessment through ISE, IE and End Semester exams"
+  },
+  {
+    "question": "Does TCET support overall student development?",
+    "answer": "Yes. Through student bodies like ISTE, Green Club, EDIC and various professional chapters, TCET encourages leadership, technical skills, entrepreneurship and environmental awareness."
+  },
+  {
+    "question": "How does TCET help FE students adjust?",
+    "answer": "TCET conducts induction programs, interactive sessions and student-led activities that help FE students understand academics, campus systems and opportunities available."
+  },
+  {
+    "question": "What\u2019s the attendance requirement?",
+    "answer": "TCET requires a minimum 75% attendance in each passing head to be eligible for term grant."
+  },
+  {
+    "question": "How are exams evaluated?",
+    "answer": "Internal Assessment is 40 marks (average of best two out of three In-Semester Exams), Innovative Exam 20 marks, and End Sem 60 marks."
+  },
+  {
+    "question": "How do I check attendance and timetable?",
+    "answer": "Through the ERP portal using your student ID & password \u2014 attendance, timetables, lecture notes, and leave applications are accessible there."
+  },
+  {
+    "question": "What can I do on ERP?",
+    "answer": "You can view attendance, timetable, submit leave requests, and check lecture notes & assignments."
+  },
+  {
+    "question": "What to do if attendance isn\u2019t updated?",
+    "answer": "First check ERP for upload timing; if still missing, contact faculty/department admin to update records."
+  },
+  {
+    "question": "How can I apply for official documents?",
+    "answer": "For certificates like bonafide, you usually request via ERP or the admin office \u2014 ask your class mentor for exact steps."
+  },
+  {
+    "question": "Is there anti-ragging policy at TCET?",
+    "answer": "TCET has Anti-Ragging and Grievance Redressal Committees listed on the institute site under Conduct & Discipline"
+  },
+  {
+    "question": "Who do I contact in case of safety concerns?",
+    "answer": "Emergency contacts are generally shared during induction \u2014 you can also approach security guards on campus."
+  },
+  {
+    "question": "Is there a medical room?",
+    "answer": "Yes we do have, its on 1st foor C-WING"
+  },
+  {
+    "question": "Are counselling resources available?",
+    "answer": "TCET\u2019s yearly status reports emphasise stress on physical & mental health awareness (NSS & other activities)."
+  },
+  {
+    "question": "Are there environment-related activities?",
+    "answer": "TCET NSS activities include environmental and health awareness programmes."
+  },
+  {
+    "question": "Is hostel available?",
+    "answer": "Hostel accommodation is available for boys & girls \u2014 you\u2019ll need to provide ID and contact details when requested."
+  },
+  {
+    "question": "Do hostels have Wi-Fi?",
+    "answer": "Campus Wi-Fi exists; hostels may have separate arrangements \u2014 check with hostel warden or admin."
+  },
+  {
+    "question": "Are placement cells active?",
+    "answer": "TCET has a Training & Placement Cell with programs like Campus Connect to improve skills."
+  },
+  {
+    "question": "What events help me adjust?",
+    "answer": "TCET conducts a Student Induction Program (SIP) for new students to familiarise them with campus life."
+  },
+  {
+    "question": "What is Fiesta?",
+    "answer": "Fiesta is one of the major fests at TCET, specially engaging for FE students. It includes technical competitions, cultural activities, fun events and workshops. It gives first-year students a platform to participate, volunteer and interact with seniors."
+  },
+  {
+    "question": "Why should FE students participate in fests?",
+    "answer": "Participating in fests helps FE students: Break hesitation Make new friends Improve communication skills Explore talents beyond academics"
+  },
+  {
+    "question": "What is ISTE at TCET?",
+    "answer": "ISTE (Indian Society for Technical Education) is a student professional body at TCET. It organizes technical events, workshops and the Fiesta fest. It focuses on skill development and overall student growth."
+  },
+  {
+    "question": "What is Green Club?",
+    "answer": "Green Club is a sustainability-focused body that works on environmental awareness, tree plantation drives and eco-friendly initiatives within campus."
+  },
+  {
+    "question": "What is EDIC?",
+    "answer": "EDIC (Entrepreneurship Development & Innovation Cell) promotes innovation and startup culture. It conducts idea pitching sessions, entrepreneurship workshops and guidance programs."
+  },
+  {
+    "question": "Why should FE students join social bodies?",
+    "answer": "Joining social bodies helps FE students: Build leadership skills Gain certificates Improve resume strength Develop confidence and networking skills"
+  },
+  {
+    "question": "What happens if I miss one ISE?",
+    "answer": "If you miss one ISE due to valid reason, marks may be calculated from remaining exams, but you should inform faculty immediately."
+  },
+  {
+    "question": "How is CGPA calculated?",
+    "answer": "CGPA is calculated based on grade points earned in each subject and their respective credits."
+  },
+  {
+    "question": "Can I apply for revaluation?",
+    "answer": "Yes, after results are declared, you can apply for revaluation within the given deadline through exam section procedure."
+  },
+  {
+    "question": "How to apply for leave?",
+    "answer": "Leave application can be submitted through ERP or by informing class mentor/faculty as per department process"
+  },
+  {
+    "question": "What if my attendance is wrongly marked?",
+    "answer": "First confirm with the subject faculty. If needed, contact department office for correction."
+  },
+  {
+    "question": "What if I forget ERP password?",
+    "answer": "Use the \u201cForgot Password\u201d option or contact IT/admin department for reset."
+  },
+  {
+    "question": "Where is the library and what are the timings?",
+    "answer": "The library is located inside campus on $th floor and operates during working college hours. Exact timings are 8am to 8pm"
+  },
+  {
+    "question": "Is there a dress code?",
+    "answer": "Students are expected to follow decent and appropriate dress guidelines as per institute norms."
+  },
+  {
+    "question": "What to do in case of fire emergency?",
+    "answer": "Follow evacuation instructions, use staircases (not lift), and assemble at designated safe areas."
+  },
+  {
+    "question": "What is the difference between ISE, IE and End Sem?",
+    "answer": "ISE (In-Sem Exam) is internal theory exam, IE (Innovative Exam) includes presentations/projects, and End Sem is the final university exam."
+  },
+  {
+    "question": "Are calculators allowed in exams?",
+    "answer": "Only scientific calculators are allowed, as per exam rules."
+  },
+  {
+    "question": "Are practical exams important?",
+    "answer": "Yes, practical marks are separate passing heads and must be cleared individually."
+  },
+  {
+    "question": "What happens if I have low attendance but good marks?",
+    "answer": "Attendance requirement is mandatory regardless of marks."
+  },
+  {
+    "question": "Can I see my evaluated answer sheet?",
+    "answer": "Yes for ESE, revaluation option is available within deadline."
+  },
+  {
+    "question": "How to know my classroom for exams?",
+    "answer": "Seating arrangement is displayed on notice boards or shared through official communication."
+  },
+  {
+    "question": "Are mobile phones allowed during lectures?",
+    "answer": "Phones should be on silent and used only for academic purposes if permitted by faculty."
+  },
+  {
+    "question": "Is outside food allowed?",
+    "answer": "Yes"
+  },
+  {
+    "question": "What if I don\u2019t make friends immediately?",
+    "answer": "It takes time. Participate in events and group activities to connect naturally."
+  },
+  {
+    "question": "How to improve communication skills?",
+    "answer": "Join student bodies, participate in presentations and volunteer in events."
+  },
+  {
+    "question": "What if I am scared to talk to seniors?",
+    "answer": "Most seniors are approachable and supportive. Academic queries can also be asked through faculty."
+  },
+  {
+    "question": "Is waste segregation practiced on campus?",
+    "answer": "Students are encouraged to use designated bins for proper waste disposal."
+  },
+  {
+    "question": "Can students propose sustainability ideas?",
+    "answer": "Yes, ideas can be shared through Green Club or faculty coordinators."
+  },
+  {
+    "question": "Can FE students participate in hackathons?",
+    "answer": "Yes, beginners are encouraged to participate to gain exposure."
+  },
+  {
+    "question": "When should I start internships?",
+    "answer": "Skill-building can begin in FE, internships are usually more common from SE onwards."
+  },
+  {
+    "question": "How to build resume in FE?",
+    "answer": "Participate in events, complete certifications, join student bodies and maintain academic performance. TCET also conducts workshops for the same."
+  },
+  {
+    "question": "I\u2019m scared to answer in class. Is that bad?",
+    "answer": "Not at all. Participation improves with practice and confidence."
+  },
+  {
+    "question": "What if I don\u2019t understand lectures but feel shy to ask?",
+    "answer": "You can approach faculty after class or clarify with classmates later."
+  },
+  {
+    "question": "Is it okay to talk to professors outside lecture time?",
+    "answer": "Yes. Faculty encourage academic queries outside class hours."
+  },
+  {
+    "question": "What if I feel nervous during presentations?",
+    "answer": "Nervousness is common. Preparation and small practice sessions help."
+  },
+  {
+    "question": "What if my English isn\u2019t very strong?",
+    "answer": "Communication improves with usage. Confidence matters more than perfection. TCE also helps students to improve English with initiatives like"
+  },
+  {
+    "question": "What is a CR?",
+    "answer": "CR (Class Representative) is a student chosen to represent the class and act as a bridge between students and faculty."
+  },
+  {
+    "question": "What are the responsibilities of a CR?",
+    "answer": "Communicates announcements Coordinates with faculty Shares timetable updates Collects student concerns Maintains class discipline during official matters"
+  },
+  {
+    "question": "How is CR selected?",
+    "answer": "CR is usually selected through nomination, volunteering or class voting as per department process."
+  },
+  {
+    "question": "Is being CR stressful?",
+    "answer": "It requires responsibility and communication skills, but it helps in leadership development."
+  },
+  {
+    "question": "Does being CR help in resume building?",
+    "answer": "Yes. It reflects leadership, coordination and responsibility."
+  },
+  {
+    "question": "What is the mentoring system?",
+    "answer": "Each student is assigned a faculty mentor who guides them academically and personally throughout the semester."
+  },
+  {
+    "question": "How often are mentoring meetings conducted?",
+    "answer": "Mentoring sessions are usually conducted twice during the semester."
+  },
+  {
+    "question": "What if I miss mentoring meeting?",
+    "answer": "Inform your mentor in advance and request a rescheduled session if possible."
+  },
+  {
+    "question": "Can mentor help during backlog situation?",
+    "answer": "Yes. Mentor can guide you on improvement plan and next steps."
+  },
+  {
+    "question": "Is mentoring compulsory?",
+    "answer": "Mentoring sessions are part of academic support system and students are expected to attend."
+  },
+  {
+    "question": "Is Wi-Fi available for students?",
+    "answer": "Yes, campus Wi-Fi is available for academic purposes. Students may need official login credentials to access it."
+  },
+  {
+    "question": "What is the exam pattern in FE?",
+    "answer": "FE exam structure generally includes: ISE (In-Sem Exam) \u2013 Internal theory exam IE (Innovative Exam) \u2013 Presentation/project-based assessment End Semester Exam \u2013 Final university exam Marks are calculated as per subject scheme."
+  },
+  {
+    "question": "How can I improve individual subject understanding?",
+    "answer": "To improve understanding: Revise lecture notes daily Refer resource books Ask doubts immediately Practice previous year questions Discuss concepts with peers Consistency matters more than last-minute study."
+  },
+  {
+    "question": "How are curriculum and fests balanced in FE?",
+    "answer": "The curriculum focuses on core engineering fundamentals. Fests and events provide exposure beyond academics. Both are important \u2014 academics build foundation, fests build confidence and personality."
+  },
+  {
+    "question": "Which activities or events are necessary for FE students?",
+    "answer": "No activity is compulsory (except academic requirements), but participating in: At least one technical event One student body or workshop One fest activity helps in confidence and skill development."
+  },
+  {
+    "question": "Which soft skills are necessary for FE students?",
+    "answer": "Important soft skills include: Communication skills Time management Basic presentation skills Teamwork Professional behavior Adaptability"
+  },
+  {
+    "question": "How to handle multiple works at a time with proper time management?",
+    "answer": "Follow this structure: List all tasks. Prioritize deadlines. Break big tasks into small steps. Allocate fixed time slots. Avoid procrastination. Take short breaks to maintain focus."
+  },
+  {
+    "question": "How to stay productive during busy weeks?",
+    "answer": "Start assignments early Avoid multitasking during study Use timetable planning Limit unnecessary distractions Maintain proper sleep"
+  },
+  {
+    "question": "What makes TCET unique?",
+    "answer": "TCET emphasizes: Outcome-Based Education (OBE) Active student bodies and professional chapters Strong focus on technical events and conferences Environmental and social responsibility initiatives Continuous assessment through ISE, IE and End Semester exams"
+  },
+  {
+    "question": "Does TCET focus on overall student growth?",
+    "answer": "Yes. Through student bodies like ISTE, Green Club, EDIC and various professional chapters, TCET encourages leadership, technical skills, entrepreneurship and environmental awareness."
+  },
+  {
+    "question": "Does TCET help students develop skills beyond academics?",
+    "answer": "TCET conducts induction programs, interactive sessions and student-led activities that help FE students understand academics, campus systems and opportunities available."
+  },
+  {
+    "question": "How does TCET support personality development?",
+    "answer": "Yes. Through student bodies like ISTE, Green Club, EDIC and various professional chapters, TCET encourages leadership, technical skills, entrepreneurship and environmental awareness."
+  },
+  {
+    "question": "How are first-year students supported at TCET?",
+    "answer": "ISTE (Indian Society for Technical Education) is a student professional body at TCET. It organizes technical events, workshops and the Fiesta fest. It focuses on skill development and overall student growth."
+  },
+  {
+    "question": "How does TCET help new students settle in?",
+    "answer": "TCET conducts induction programs, interactive sessions and student-led activities that help FE students understand academics, campus systems and opportunities available."
+  },
+  {
+    "question": "What is the minimum attendance required?",
+    "answer": "Minimum attendance required is 75%"
+  },
+  {
+    "question": "How much attendance is compulsory in TCET?",
+    "answer": "75% attendance is compulsory in TCET"
+  },
+  {
+    "question": "Is 75% attendance mandatory?",
+    "answer": "Yes 75% attendance is mandatory"
+  },
+  {
+    "question": "How is the exam marking scheme structured?",
+    "answer": "FE exam structure generally includes: ISE (In-Sem Exam) \u2013 Internal theory exam IE (Innovative Exam) \u2013 Presentation/project-based assessment End Semester Exam \u2013 Final university exam Marks are calculated as per subject scheme."
+  },
+  {
+    "question": "How are internal and end-semester exams calculated?",
+    "answer": "Internal Assessment is 40 marks (average of best two out of three In-Semester Exams), Innovative Exam 20 marks, and End Sem 60 marks."
+  },
+  {
+    "question": "What is the exam evaluation pattern?",
+    "answer": "FE exam structure generally includes: ISE (In-Sem Exam) \u2013 Internal theory exam IE (Innovative Exam) \u2013 Presentation/project-based assessment End Semester Exam \u2013 Final university exam Marks are calculated as per subject scheme."
+  },
+  {
+    "question": "Where can I check my attendance?",
+    "answer": "Through the ERP portal using your student ID & password \u2014 attendance, timetables, lecture notes, and leave applications are accessible there."
+  },
+  {
+    "question": "How can I see my timetable online?",
+    "answer": "Through the ERP portal using your student ID & password \u2014 attendance, timetables, lecture notes, and leave applications are accessible there."
+  },
+  {
+    "question": "How do students check attendance in TCET?",
+    "answer": "Through the ERP portal using your student ID & password \u2014 attendance, timetables, lecture notes, and leave applications are accessible there."
+  },
+  {
+    "question": "What is ERP used for?",
+    "answer": "Through the ERP portal using your student ID & password \u2014 attendance, timetables, lecture notes, and leave applications are accessible there."
+  },
+  {
+    "question": "What are the features of the ERP portal?",
+    "answer": "Through the ERP portal using your student ID & password \u2014 attendance, timetables, lecture notes, and leave applications are accessible there."
+  },
+  {
+    "question": "What services are available on ERP?",
+    "answer": "You can view attendance, timetable, submit leave requests, and check lecture notes & assignments."
+  },
+  {
+    "question": "What should I do if my attendance is missing?",
+    "answer": "First confirm with the subject faculty. If needed, contact department office for correction."
+  },
+  {
+    "question": "How can I fix incorrect attendance?",
+    "answer": "First check ERP for upload timing; if still missing, contact faculty/department admin to update records."
+  },
+  {
+    "question": "How do I request certificates like bonafide?",
+    "answer": "For certificates like bonafide, you usually request via ERP or the admin office \u2014 ask your class mentor for exact steps."
+  },
+  {
+    "question": "Where can I apply for official documents?",
+    "answer": "For certificates like bonafide, you usually request via ERP or the admin office \u2014 ask your class mentor for exact steps."
+  },
+  {
+    "question": "Does TCET have an anti-ragging rule?",
+    "answer": "TCET has Anti-Ragging and Grievance Redressal Committees listed on the institute site under Conduct & Discipline"
+  },
+  {
+    "question": "Is ragging prohibited in TCET?",
+    "answer": "TCET has Anti-Ragging and Grievance Redressal Committees listed on the institute site under Conduct & Discipline"
+  },
+  {
+    "question": "Where can I report safety concerns?",
+    "answer": "Emergency contacts are generally shared during induction \u2014 you can also approach security guards on campus."
+  },
+  {
+    "question": "Does TCET have a medical facility?",
+    "answer": "Yes we do have, its on 1st foor C-WING"
+  },
+  {
+    "question": "Is there a health room on campus?",
+    "answer": "Yes we do have, its on 1st foor C-WING"
+  },
+  {
+    "question": "Where is the medical room in TCET?",
+    "answer": "Yes we do have, its on 1st foor C-WING"
+  },
+  {
+    "question": "Is Wi-Fi available in the hostel?",
+    "answer": "Yes"
+  },
+  {
+    "question": "Do hostel students get internet access?",
+    "answer": "Yes"
+  },
+  {
+    "question": "Does TCET have a placement cell?",
+    "answer": "TCET has a Training & Placement Cell with programs like Campus Connect to improve skills."
+  },
+  {
+    "question": "How active is the placement department?",
+    "answer": "TCET has a Training & Placement Cell with programs like Campus Connect to improve skills."
+  },
+  {
+    "question": "What programs help new students adapt?",
+    "answer": "TCET conducts induction programs, interactive sessions and student-led activities that help FE students understand academics, campus systems and opportunities available."
+  },
+  {
+    "question": "Are there orientation events for first-year students?",
+    "answer": "TCET conducts induction programs, interactive sessions and student-led activities that help FE students understand academics, campus systems and opportunities available."
+  },
+  {
+    "question": "What activities help students adjust to college?",
+    "answer": "TCET conducts induction programs, interactive sessions and student-led activities that help FE students understand academics, campus systems and opportunities available."
+  },
+  {
+    "question": "What does Fiesta mean in TCET?",
+    "answer": "Fiesta is one of the major fests at TCET, especially engaging for FE students. It includes technical competitions, cultural activities, fun events and workshops. It gives first-year students a platform to participate, volunteer and interact with seniors."
+  },
+  {
+    "question": "What kind of event is Fiesta?",
+    "answer": "Fiesta is one of the major fests at TCET, specially engaging for FE students. It includes technical competitions, cultural activities, fun events and workshops. It gives first-year students a platform to participate, volunteer and interact with seniors."
+  },
+  {
+    "question": "Why are college fests important for first-year students?",
+    "answer": "Participating in fests helps FE students: Break hesitation Make new friends Improve communication skills Explore talents beyond academics"
+  },
+  {
+    "question": "What are the benefits of participating in fests?",
+    "answer": "Participating in fests helps FE students: Break hesitation Make new friends Improve communication skills Explore talents beyond academics"
+  },
+  {
+    "question": "Should first-year students join college festivals?",
+    "answer": "Joining social bodies helps FE students: Build leadership skills Gain certificates Improve resume strength Develop confidence and networking skills"
+  },
+  {
+    "question": "What does ISTE stand for in TCET?",
+    "answer": "ISTE (Indian Society for Technical Education) is a student professional body at TCET. It organizes technical events, workshops and the Fiesta fest. It focuses on skill development and overall student growth."
+  },
+  {
+    "question": "What does the ISTE student body do?",
+    "answer": "Yes. Through student bodies like ISTE, Green Club, EDIC and various professional chapters, TCET encourages leadership, technical skills, entrepreneurship and environmental awareness."
+  },
+  {
+    "question": "What activities are conducted by ISTE?",
+    "answer": "ISTE (Indian Society for Technical Education) is a student professional body at TCET. It organizes technical events, workshops and the Fiesta fest. It focuses on skill development and overall student growth."
+  },
+  {
+    "question": "What does the Green Club do?",
+    "answer": "Green Club is a sustainability-focused body that works on environmental awareness, tree plantation drives and eco-friendly initiatives within campus."
+  },
+  {
+    "question": "What activities are organised by the Green Club?",
+    "answer": "Green Club is a sustainability-focused body that works on environmental awareness, tree plantation drives and eco-friendly initiatives within campus."
+  },
+  {
+    "question": "What is the purpose of the Green Club?",
+    "answer": "Green Club is a sustainability-focused body that works on environmental awareness, tree plantation drives and eco-friendly initiatives within campus."
+  },
+  {
+    "question": "What does EDIC stand for?",
+    "answer": "EDIC (Entrepreneurship Development & Innovation Cell) promotes innovation and startup culture. It conducts idea pitching sessions, entrepreneurship workshops and guidance programs."
+  },
+  {
+    "question": "What is the role of EDIC in TCET?",
+    "answer": "EDIC (Entrepreneurship Development & Innovation Cell) promotes innovation and startup culture. It conducts idea pitching sessions, entrepreneurship workshops and guidance programs."
+  },
+  {
+    "question": "What activities are conducted by EDIC?",
+    "answer": "EDIC (Entrepreneurship Development & Innovation Cell) promotes innovation and startup culture. It conducts idea pitching sessions, entrepreneurship workshops and guidance programs."
+  },
+  {
+    "question": "Should first-year students join college bodies?",
+    "answer": "Joining social bodies helps FE students: Build leadership skills Gain certificates Improve resume strength Develop confidence and networking skills"
+  },
+  {
+    "question": "What is the social body for entrepreneurship?",
+    "answer": "EDIC is the social body for entrepreneurship"
+  },
+  {
+    "question": "What is the green club for?",
+    "answer": "Green Club is a sustainability-focused body that works on environmental awareness, tree plantation drives and eco-friendly initiatives within campus."
+  },
+  {
+    "question": "How does TCET help with overall development?",
+    "answer": "TCET conducts induction programs, interactive sessions and student-led activities that help FE students understand academics, campus systems and opportunities available."
+  },
+  {
+    "question": "How are the exams evaluated in scheme?",
+    "answer": "Internal Assessment is 40 marks (average of best two out of three In-Semester Exams), Innovative Exam 20 marks, and End Sem 60 marks."
+  },
+  {
+    "question": "What is the exam scheme?",
+    "answer": "FE exam structure generally includes: ISE (In-Sem Exam) \u2013 Internal theory exam IE (Innovative Exam) \u2013 Presentation/project-based assessment End Semester Exam \u2013 Final university exam Marks are calculated as per subject scheme. Is there any facility against ragging in TCET TCET has Anti-Ragging and Grievance Redressal Committees listed on the institute site under Conduct & Discipline"
+  },
+  {
+    "question": "Why do many students apply to TCET?",
+    "answer": "TCET provides a balanced environment of academics, technical exposure and overall personality development. It focuses not only on curriculum but also on innovation, research, sustainability and student growth. Are there any hackathons for FE students Yes, beginners are encouraged to participate to gain exposure."
+  }
+]
